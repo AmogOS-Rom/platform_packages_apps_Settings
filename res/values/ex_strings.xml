@@ -16,9 +16,9 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- About phone screen, Extended version -->
-    <string name="extended_version">Extended version</string>
-    <string name="extended_version_default">Unknown</string>
-    <string name="keywords_extended_version">aex version, extended version</string>
+    <string name="extended_version">Amog-OS version</string>
+    <string name="extended_version_default">Sus</string>
+    <string name="keywords_extended_version">amog version, sus version</string>
 
     <!-- About phone screen, build date -->
     <string name="build_date">Build date</string>
